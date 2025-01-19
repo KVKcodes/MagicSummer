@@ -42,7 +42,7 @@ def append_to_json(filename, data):
 
 # Configure the API key
 print("\n🔑 Configuring Gemini API...")
-genai.configure(api_key='AIzaSyBI8sHX7fsjHx7Mhi7GagnsHpmj0zQHYhg')
+genai.configure(api_key='your_api_key')
 
 # Load the model
 print("🤖 Loading Gemini Pro Vision model...")
