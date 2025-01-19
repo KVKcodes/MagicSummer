@@ -1,0 +1,1628 @@
+{
+    "001.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "None",
+                "description": "There are no characters depicted in this comic's preview. Only an ominous pair of eyes in the top panel and a dilapidated building and tunnel in the bottom panels.",
+                "pose": "N/A",
+                "emotion": "N/A"
+            },
+            "ocr_text_describing": {
+                "dialogue": "A SHOCKINGLY GROTESQUE OCCULTIC BATTLE SERIES!\nAND\nSHUDDERS\nSQUIRMS\nFEAR\nAT THE\nUNKNOWN.\nTHE GRAND OPENING OF A NEW SERIES...!",
+                "description_scene": "The comic's preview shows a pair of glowing yellow eyes in the upper left corner and a pair of red glowing eyes in the upper right corner, setting a mysterious and ominous tone. The panels below show a decaying building with the Japanese characters 医大病院 (hospital) barely visible on its facade, and a dark tunnel blocked by construction barriers, signifying the unknown and fear.  The overall atmosphere is dark, suspenseful and suggests a horror/occult theme."
+            }
+        },
+        "narrator_script": "The preview begins with two panels showing a pair of glowing yellow eyes in the upper left and a pair of glowing red eyes in the upper right.  Below, a panel depicts a dilapidated building with partially visible Japanese characters 医大病院 on its facade.  Another panel shows a dark tunnel entrance blocked by construction barriers.\n",
+        "processed_at": "20:25:01"
+    },
+    "002.jpg": {
+        "scene_description": {
+            "character": {
+                "name": null,
+                "description": null,
+                "pose": null,
+                "emotion": null
+            },
+            "ocr_text_describing": {
+                "dialogue": null,
+                "description_scene": "This is a scanlation credit page for Chapter 27 of the manga Dandadan.  The credits list the individuals and teams responsible for translation, redrawing, raw providing, typesetting, merging, and quality checking the manga chapter.  The background is a stylized, grunge-style design with large red and black lettering."
+            }
+        },
+        "narrator_script": "The image is a scanlation credit page for Chapter 27 of the manga Dandadan.  The credits list the individuals and teams responsible for translation, redrawing, raw providing, typesetting, merging, and quality checking the chapter. The background is a stylized grunge design with large red and black lettering.\n",
+        "processed_at": "20:25:09"
+    },
+    "003.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "None",
+                "description": "There are no characters depicted in this image. It is a title page for a manga.",
+                "pose": "N/A",
+                "emotion": "N/A"
+            },
+            "ocr_text_describing": {
+                "dialogue": "Chapter 1: This is how love begins, ain't it?",
+                "description_scene": "The image is the title page of a manga titled \"U\" by Tatsu Yukinobu.  The title is stylized with large red kanji characters overlaid on a background of dark gray, mechanical imagery suggestive of circuitry or pipes.  Additional text announces the manga's debut in Jump+ and credits the author, mentioning their previous work, \"Yamada Kiki Ippatsu!\"."
+            }
+        },
+        "narrator_script": "The image is a manga title page.  The title, \"U,\" is written in large, stylized red kanji.  The background is dark gray and features mechanical imagery resembling circuitry or pipes.  Text indicates the manga debuts in Jump+.  The author, Tatsu Yukinobu, is credited, with mention of their previous work, \"Yamada Kiki Ippatsu!\"  Chapter 1 is titled \"This is how love begins, ain't it?\" No characters are depicted.\n",
+        "processed_at": "20:25:13"
+    },
+    "004.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Boy",
+                    "description": "A boy with short hair, wearing a collared shirt and possibly a jacket.",
+                    "pose": "Standing, slightly leaning forward, hands in pockets.",
+                    "emotion": "Slightly frustrated, determined"
+                },
+                {
+                    "name": "Girl",
+                    "description": "A girl with long dark hair, wearing a school uniform, and carrying a bag.",
+                    "pose": "Standing, slightly turned away, holding a bag on her shoulder.",
+                    "emotion": "Slightly surprised, perhaps considering"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "I SAID IF YOU AIN'T GONNA LEND ME SOME MONEY... THEN THE DATE'S OFF. WELL... YOU CAN STILL DO IT WITH ME, IF YA WANT. THE LOVE HOTEL CHARGE'S ON YOU, THOUGH. HUUH?",
+                "description_scene": "A conversation between a boy and a girl. The boy is upset that the girl won't lend him money, but she offers to go on the date anyway, with the boy covering the cost of a hotel."
+            }
+        },
+        "narrator_script": "The scene depicts a boy and a girl. The boy has short hair, a collared shirt, and possibly a jacket. He is standing, slightly leaning forward with his hands in his pockets.  The girl has long dark hair and is wearing a school uniform; she carries a bag on her shoulder and stands slightly turned away.  The boy's expression appears slightly frustrated and determined. The girl's expression appears slightly surprised and possibly contemplative.\n",
+        "processed_at": "20:25:18"
+    },
+    "005.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with dark hair",
+                    "description": "A girl with dark hair, wearing a school uniform (skirt and blouse). She appears to be skilled in martial arts.",
+                    "pose": "She is shown kicking a man and then punching another one.",
+                    "emotion": "Angry and determined"
+                },
+                {
+                    "name": "Man in a suit",
+                    "description": "A man wearing a jacket. He appears to be surprised and in pain after being kicked.",
+                    "pose": "He is getting kicked in the face by the girl.",
+                    "emotion": "Surprised, shocked, pain"
+                },
+                {
+                    "name": "Girl with dark hair (2)",
+                    "description": "A girl with dark hair, seemingly aggressive.",
+                    "pose": "Punching another person",
+                    "emotion": "Aggressive, angry"
+                },
+                {
+                    "name": "Man with dark hair (2)",
+                    "description": "Another man who is getting punched.",
+                    "pose": "Getting punched.",
+                    "emotion": "Pain, surprise"
+                },
+                {
+                    "name": "Girl with dark hair (3)",
+                    "description": "A girl with dark hair who seems to be observing a fight.",
+                    "pose": "She is shown lying on the ground.",
+                    "emotion": "Confused, possibly scared"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "WHOA!\nEAT THIS!!\nHEY, THE HELL ARE YOU...!",
+                "description_scene": "A girl with dark hair is shown kicking a man in the face. In another scene, she is punching another person. The dialogue indicates the aggression and surprise of the characters."
+            }
+        },
+        "narrator_script": "A girl with dark hair, wearing a school uniform, kicks a man in a jacket in the face.  The man appears surprised and in pain. The girl then punches another man. A second girl with dark hair punches a second man with dark hair.  A third girl with dark hair lies on the ground.  The dialogue visible reads \"WHOA!\", \"EAT THIS!!\", and \"HEY, THE HELL ARE YOU...!\"\n",
+        "processed_at": "20:25:24"
+    },
+    "006.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with dark hair",
+                    "description": "A girl with dark hair, kneeling on the ground, appears to be distressed or in trouble. She is being verbally attacked by another character.",
+                    "pose": "Kneeling, distressed",
+                    "emotion": "Distressed, upset"
+                },
+                {
+                    "name": "Aggressive woman",
+                    "description": "A woman who is aggressively confronting the girl with dark hair. She is making derogatory comments and threats.",
+                    "pose": "Leaning over, aggressive",
+                    "emotion": "Angry, aggressive"
+                },
+                {
+                    "name": "Man in black",
+                    "description": "A man dressed in black clothing who appears to be observing the confrontation. He is walking away from the scene.",
+                    "pose": "Walking away",
+                    "emotion": "Uncaring, indifferent"
+                },
+                {
+                    "name": "Girl with blonde hair",
+                    "description": "A blonde haired girl, seems nonchalant, unbothered by what is happening",
+                    "pose": "Sitting",
+                    "emotion": "Unbothered, calm"
+                },
+                {
+                    "name": "Girl in school uniform",
+                    "description": "A girl in school uniform, sitting, observing the situation, seems to be sad, disappointed",
+                    "pose": "Sitting",
+                    "emotion": "Sad, Disappointed"
+                },
+                {
+                    "name": "Girl with dark hair 2",
+                    "description": "A girl with dark hair, seems to be concerned and trying to make sense of the situation",
+                    "pose": "Sitting, looking around",
+                    "emotion": "Concerned, confused"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "If you ain't got money or the goods, you ain't worth my time!!\nI'm through with you!!\nDon't go gettin' a big head, bitch!!\nUrk...\nScrew you, jerk!! Squid!!\nCalling him seafood's not cussing him out, girl.\nLol, I'm dead.\nI told you not to go after him!\nWhat'd you see in that guy, anyway?\nHe was my first boyfriend.\nAw, help me out here...",
+                "description_scene": "A series of panels depicting a confrontation between a group of girls and a man in school setting. One girl is being verbally attacked while others react with various expressions of surprise, amusement, and concern. Some of the dialogue is insulting and aggressive, while others express remorse and support. The scene progresses from an initial confrontation to its aftermath with the reactions of those present. "
+            }
+        },
+        "narrator_script": "The scene depicts a group of girls and a man in what appears to be a school setting.  A girl with dark hair is kneeling on the ground, appearing distressed. An aggressive woman leans over her, verbally attacking her.  The dialogue includes insults and threats. A man in black clothing walks away from the scene. A blonde-haired girl sits, appearing unconcerned. Another girl, in a school uniform, sits and observes, appearing sad. A second girl with dark hair sits, looking around, appearing concerned.\n",
+        "processed_at": "20:25:30"
+    },
+    "007.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Girl",
+                "description": "A young woman with short hair, she seems to be a high school student. She is expressing her disappointment.",
+                "pose": "Standing in a school hallway, then sitting in a classroom.",
+                "emotion": "Disappointed, melancholic"
+            },
+            "ocr_text_describing": {
+                "dialogue": "I'M AN AWKWARD GUY.\nLISTEN!! I LIKE STERN, MASCULINE GUYS LIKE TAKAKURA KEN!!\nGUYS LIKE THAT ARE A THING OF THE PAST.\nYOU'RE JUST ASKIN' FOR TROUBLE, SIS.\nGOD DAMN.\nHIS FACE LOOKED LIKE TAKAKURA KEN.\nISN'T THERE SOMEONE TO HELP ME OUT HERE...?\nGUESS I'LL NEVER BE ABLE TO MEET A GUY LIKE KEN-SAN...\nMAN, WHAT A BUMMER...\nIT'S A TOUGH WORLD WE LIVE IN...",
+                "description_scene": "The comic starts with the girl expressing her preference for stern and masculine men like Takakura Ken, a famous Japanese actor.  She's then shown in a school hallway and eventually in a classroom, feeling melancholic and accepting that she might never find someone like her ideal man, commenting on the difficulty of life."
+            },
+            "character2": {
+                "name": "Other students",
+                "description": "Other students appear in the background scenes of the comic. They are shown in a classroom setting.",
+                "pose": "Sitting at desks, talking amongst themselves",
+                "emotion": "Neutral, in the background"
+            },
+            "character3": {
+                "name": "Takakura Ken",
+                "description": "An image of Takakura Ken is shown to reference the type of man the girl prefers.",
+                "pose": "An image of Takakura Ken's face",
+                "emotion": "Stern, serious (based on previous description)"
+            }
+        },
+        "narrator_script": "The scene opens with a young woman with short hair, appearing to be a high school student, standing in a school hallway.  She is expressing disappointment. Text bubbles display her internal monologue: \"I'M AN AWKWARD GUY,\" \"LISTEN!! I LIKE STERN, MASCULINE GUYS LIKE TAKAKURA KEN!!,\" \"GUYS LIKE THAT ARE A THING OF THE PAST,\" \"YOU'RE JUST ASKIN' FOR TROUBLE, SIS,\" \"GOD DAMN,\" \"HIS FACE LOOKED LIKE TAKAKURA KEN,\" \"ISN'T THERE SOMEONE TO HELP ME OUT HERE...?,\" \"GUESS I'LL NEVER BE ABLE TO MEET A GUY LIKE KEN-SAN...,\" \"MAN, WHAT A BUMMER...,\" \"IT'S A TOUGH WORLD WE LIVE IN...\"  Other students are visible in the background of the hallway scene. The scene then shifts to the girl sitting in a classroom; other students are seated at desks. An image of Takakura Ken's face is shown.\n",
+        "processed_at": "20:25:38"
+    },
+    "008.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Boy 1",
+                    "description": "A boy with glasses, wearing a school uniform. He is seen throwing crumpled paper at another character and making a gesture to another to not look at them.",
+                    "pose": "Throwing crumpled paper, gesturing.",
+                    "emotion": "Annoyed, mischievous."
+                },
+                {
+                    "name": "Boy 2",
+                    "description": "A boy with glasses, wearing a school uniform. He is sitting at a desk, seemingly ignoring the other characters.",
+                    "pose": "Sitting at a desk, reading.",
+                    "emotion": "Appears focused and indifferent."
+                },
+                {
+                    "name": "Girl",
+                    "description": "A girl with long hair, wearing a school uniform.  She is shown with a concerned expression.",
+                    "pose": "Looking downward, concerned.",
+                    "emotion": "Concerned, possibly worried."
+                },
+                {
+                    "name": "Boy 3",
+                    "description": "A boy with glasses, wearing a school uniform. He is seen holding a crumpled paper, having apparently been hurt.",
+                    "pose": "Holding crumpled paper, expression of pain.",
+                    "emotion": "Hurt, pained."
+                },
+                {
+                    "name": "Boy 4",
+                    "description": "A boy with glasses, wearing a school uniform.  He is shown with another boy huddled together behind him.",
+                    "pose": "Huddled with another boy.",
+                    "emotion": "Annoyed, fearful."
+                },
+                {
+                    "name": "Boy 5",
+                    "description": "A boy with dark hair, wearing a school uniform.  He is huddled with another boy in front of him.",
+                    "pose": "Huddled with another boy.",
+                    "emotion": "Annoyed, fearful."
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "DON'T LOOK AT US, WEIRDO. TRY STICKING A MAGNET INSIDE. OUCH, THAT'S GOTTA HURT!",
+                "description_scene": "The scene takes place in a school classroom. Multiple students are present, with some throwing crumpled paper and others reacting. One student is visibly hurt, possibly due to the experiment mentioned in the dialogue."
+            }
+        },
+        "narrator_script": "The scene depicts a school classroom. Boy 1, wearing a school uniform and glasses, throws crumpled paper at Boy 3.  Simultaneously, Boy 1 gestures to Boy 2, who is seated at a desk, appearing to read, and seemingly ignoring the incident.  Boy 3 holds crumpled paper and displays a pained expression.  Girl, also in a school uniform, exhibits a concerned expression.  Boy 4 and Boy 5 are huddled together.  All students wear school uniforms and glasses, except Boy 5.\n",
+        "processed_at": "20:25:45"
+    },
+    "009.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Boy with short hair",
+                "description": "A boy with short dark hair, seen in the same panel asking about the book.",
+                "pose": "Sitting down.",
+                "emotion": "Curious"
+            },
+            "ocr_text_describing": {
+                "dialogue": "WHAT'S THAT YOU'RE READING?\nOH, U-UHM!",
+                "description_scene": "A classroom scene. A girl is sitting at a desk reading a book. Other students are looking at her curiously.  One boy asks her what she's reading. The girl appears somewhat embarrassed and hesitates to answer."
+            }
+        },
+        "narrator_script": "A classroom scene is depicted.  A girl with short dark hair, wearing a school uniform, sits at a desk, reading a book, one hand supporting her chin. Her expression is slightly pensive or shy.  A boy with short dark hair and glasses sits at the same desk, looking at the girl with a curious or slightly concerned expression.  In the background, three boys with short dark hair are visible; one has a slightly worried expression, the others have neutral expressions.  All background boys appear to be observing the girl.  Another panel shows a girl and a boy, both with short dark hair, sitting down.  The boy asks, \"WHAT'S THAT YOU'RE READING?\" The girl responds, \"OH, U-UHM!\"\n",
+        "processed_at": "20:25:52"
+    },
+    "010.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl walking away",
+                    "description": "A girl with dark hair, wearing a sweater and skirt, walking away from the camera.",
+                    "pose": "Walking away",
+                    "emotion": "Annoyed"
+                },
+                {
+                    "name": "Boy at desk",
+                    "description": "A boy with glasses, wearing a school uniform, sitting at a desk",
+                    "pose": "Sitting",
+                    "emotion": "Bored"
+                },
+                {
+                    "name": "Three whispering boys",
+                    "description": "Three boys whispering together, also in school uniform.",
+                    "pose": "Whispering",
+                    "emotion": "Secretly amused"
+                },
+                {
+                    "name": "Girl with dark hair",
+                    "description": "A girl with dark hair and bangs. She looks concerned.",
+                    "pose": "Speaking",
+                    "emotion": "Concerned"
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy with glasses looking shocked",
+                    "pose": "Sitting",
+                    "emotion": "Shocked"
+                },
+                {
+                    "name": "Girl with closed eyes",
+                    "description": "A girl with dark hair, her eyes are closed, seeming stressed",
+                    "pose": "Sitting",
+                    "emotion": "Stressed"
+                },
+                {
+                    "name": "Boy at desk, second panel",
+                    "description": "A boy with glasses sitting at a desk, looking stressed",
+                    "pose": "Sitting",
+                    "emotion": "Stressed"
+                },
+                {
+                    "name": "Ayase Momo-san",
+                    "description": "A girl with dark hair and expressive eyes. Seems determined.",
+                    "pose": "Thinking",
+                    "emotion": "Determined"
+                },
+                {
+                    "name": "Girl walking in hallway",
+                    "description": "A girl in a school uniform walking down a school hallway",
+                    "pose": "Walking",
+                    "emotion": "Annoyed"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "GUESS THIS WORLD'S FULL OF NOTHING BUT SCUM-BAGS. \nLAAAAAME! \nGOTTA FIND SOMETHING TO TAKE OUT THIS STRESS ON NOW! \nAYASE MOMO-SAN!\nARRRGH, JUST GREAT!",
+                "description_scene": "The comic shows several scenes in a school setting. The first panel shows a girl walking away while commenting on the people around her. Other panels depict students in classrooms and hallways, expressing various emotions like boredom, shock, stress and annoyance. There's a sense of overall negativity and frustration throughout the scenes."
+            }
+        },
+        "narrator_script": "The comic begins with a girl with dark hair, wearing a sweater and skirt, walking away.  She appears annoyed.\n\nThe next panel shows a boy with glasses in a school uniform sitting at a desk, appearing bored.\n\nThree boys in school uniforms are whispering together, seemingly secretly amused.\n\nA girl with dark hair and bangs is speaking, looking concerned.\n\nAnother boy with glasses is sitting, looking shocked.\n\nA girl with dark hair sits with her eyes closed, appearing stressed.\n\nA boy with glasses sits at a desk, looking stressed.\n\nA girl with dark hair and expressive eyes is shown thinking, appearing determined.  This girl is identified as Ayase Momo-san.\n\nFinally, a girl in a school uniform walks down a school hallway, appearing annoyed.  The dialogue in the comic includes the phrases, “GUESS THIS WORLD'S FULL OF NOTHING BUT SCUM-BAGS,” “LAAAAAME!” “GOTTA FIND SOMETHING TO TAKE OUT THIS STRESS ON NOW!” “AYASE MOMO-SAN!” and “ARRRGH, JUST GREAT!” The overall setting is a school, with scenes in classrooms and hallways.\n",
+        "processed_at": "20:26:00"
+    },
+    "011.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with dark hair",
+                    "description": "A girl with long dark hair and a somewhat serious expression.",
+                    "pose": "Sitting or standing, looking at another character.",
+                    "emotion": "Annoyed, frustrated"
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy with glasses, appearing somewhat nerdy.",
+                    "pose": "Looking intensely at the girl, talking.",
+                    "emotion": "Confident, maybe slightly obsessive"
+                },
+                {
+                    "name": "Girl in school uniform",
+                    "description": "A girl in a school uniform, observing the interaction.",
+                    "pose": "Standing, observing",
+                    "emotion": "Neutral, slightly confused"
+                },
+                {
+                    "name": "Boy with glasses (small)",
+                    "description": "A smaller boy with glasses, reacting to the situation.",
+                    "pose": "Standing, looking surprised",
+                    "emotion": "Surprised, shocked"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "HOW MANY TIMES ARE YOU GONNA REPEAT YOURSELF?!\nI BELIEVE I KNOW WHAT YOU LIKE!!\nHUH?\nJUST FORGET I EVER TALKED TO YOU.\nI DON'T WANNA BE YOUR FRIEND OR ANYTHING.\nTHIS IS WHAT I MEAN!!\nNAH, I THINK YOU'VE GOT THE WRONG IDEA.\nI BELIEVE I KNOW WHAT YOU LIKE!!\nIT'S THE ONLY THING A PERSON LIKE YOU...WOULD EVER APPROACH ME ABOUT!!",
+                "description_scene": "The scene takes place in what seems to be a school setting.  A boy repeatedly tells a girl he knows what she likes, much to her annoyance.  Another girl and a smaller boy observe the interaction. The dialogue reveals the girl's frustration and the boy's seeming misunderstanding of the situation."
+            }
+        },
+        "narrator_script": "The scene is set in a school. A girl with long dark hair sits or stands, looking at a boy with glasses. The boy is looking intensely at the girl and speaking.  A girl in a school uniform stands observing them. A smaller boy with glasses stands nearby, appearing surprised. The girl with dark hair has an annoyed expression. The boy with glasses appears confident. The girl in the uniform has a neutral expression. The smaller boy with glasses looks shocked.\n",
+        "processed_at": "20:26:09"
+    },
+    "012.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Obama",
+                    "description": "President Barack Obama, depicted in a newspaper clipping giving a thumbs-up.",
+                    "pose": "Giving a thumbs-up",
+                    "emotion": "Positive/approving"
+                },
+                {
+                    "name": "Girl with short hair",
+                    "description": "A girl with short hair, skeptical about the presented information.",
+                    "pose": "Looking at a book",
+                    "emotion": "Skeptical/uninterested"
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy with glasses, enthusiastic about the occult and UFOs.",
+                    "pose": "Holding a book, explaining",
+                    "emotion": "Excited/enthusiastic"
+                },
+                {
+                    "name": "Girl with long hair",
+                    "description": "A girl with long hair, annoyed by the boy's explanation.",
+                    "pose": "Looking unimpressed",
+                    "emotion": "Annoyed/uninterested"
+                },
+                {
+                    "name": "Small Boy",
+                    "description": "A small boy, shocked by the revelation of President Obama visiting Mars.",
+                    "pose": "Eyes widened",
+                    "emotion": "Shocked"
+                },
+                {
+                    "name": "Reptilian Figure",
+                    "description": "A reptilian humanoid figure from a newspaper clipping.",
+                    "pose": "Standing",
+                    "emotion": "N/A"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "WHAT IN THE WHAT?!\nUH- UH.\nI DON'T BELIEVE IN UFOS OR ALIENS OR WHATEVER.\nIT'S ALL LAID OUT IN \"PROJECT PEGASUS\"!!\nPRESIDENT OBAMA'S ALREADY VISITED MARS!!\nYOU LIKE THE OCCULT, DON'T YOU!!\nAND I DIDN'T ASK.\nTHEY ARE NOT UFOS!! THEY'RE UAPS!! THAT'S SHORT FOR \"UNIDENTIFIED AERIAL PHENOMENA\"!!",
+                "description_scene": "The scene depicts a discussion about UFOs and the occult. A boy enthusiastically shares information from a book titled \"Project Pegasus,\" which claims President Obama visited Mars and contains occult-related information. A girl and a girl with long hair express skepticism and annoyance. Newspaper clippings showing reptilian figures and other related imagery are present."
+            }
+        },
+        "narrator_script": "The scene shows a group of people reacting to information presented in a book titled \"Project Pegasus.\"  A boy with glasses holds the book and explains its contents, pointing to sections about UFOs and President Obama's alleged visit to Mars. A girl with short hair looks skeptically at the book.  A girl with long hair displays an unimpressed expression. A small boy has widened eyes, appearing shocked. A newspaper clipping featuring President Obama giving a thumbs-up is visible. Another clipping depicts a reptilian humanoid figure.  The boy's dialogue from the book states claims about UFOs, aliens, and President Obama's Mars visit.\n",
+        "processed_at": "20:26:16"
+    },
+    "013.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Character 1",
+                    "description": "A person with dark hair, wearing glasses and a dark-colored outfit.",
+                    "pose": "Sitting, looking concerned.",
+                    "emotion": "Worried"
+                },
+                {
+                    "name": "Character 2",
+                    "description": "A person with dark hair, wearing a light-colored coat.",
+                    "pose": "Standing, holding a device.",
+                    "emotion": "Calm"
+                },
+                {
+                    "name": "Character 3",
+                    "description": "A child with short dark hair, wearing glasses and school uniform.",
+                    "pose": "Standing, holding a paper.",
+                    "emotion": "Excited"
+                },
+                {
+                    "name": "Character 4",
+                    "description": "A person with dark hair and intense facial expression.",
+                    "pose": "Hugging someone, distressed.",
+                    "emotion": "Angry, hurt"
+                },
+                {
+                    "name": "Character 5",
+                    "description": "A person with short dark hair, being hugged.",
+                    "pose": "Being hugged, distressed.",
+                    "emotion": "Distressed"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "AND IN\nJAPAN THEY'VE\nESTABLISHED\nTHE AEROSPACE\nSELF-DEFENSE\nFORCE!!\nNO MATTER\nHOW YOU LOOK\nAT IT, IT'S OBVI-\nOUS THEY'RE\nSHAPING UP\nFOR INTERSTEL-\nLAR WAR!!\nOH, AND\nTHE SKIN-\nWALKER\nRANCH!\nAND\nSOME-\nTHING THAT\nLOOKS\nLIKE A GM\nCANNON!\nTHIS IS WHY\nYOU DON'T\nHAVE ANY\nFRIENDS!!\nTHE U.S.\nMILITARY'S\nOFFICIALLY\nRECOGNIZED\nTHE EXIS-\nTENCE OF\nUAPS AND\nREORGANIZED\nITS SPACE\nFORCE!!\nHUH?!\nHEY,\nWAI...\n'KAY,\nCAN I GO\nNOW?\nYOU'VE\nGOT NO\nIDEA HOW\nMUCH YOU\nNERDS PUSH\nPEOPLE'S\nBUTTONS\nAND PISS\nTHEM OFF!!\nSHUT\nUUUUUUP!!\nI'M IN THE\nMIDDLE OF A\nHEARTBREAK.\nAND I REALLY\nDON'T NEED\nALL YOUR CRAP\nON TOP OF IT!!",
+                "description_scene": "The comic depicts a conversation among several characters. The background shows a futuristic space setting. The dialogue reveals that Japan and the U.S. have established aerospace defense forces, possibly preparing for interstellar war. There are mentions of Nessie sightings and a GM cannon. The characters have a heated discussion, with one person expressing anger and frustration due to being interrupted during a moment of heartbreak."
+            }
+        },
+        "narrator_script": "The scene depicts five characters in a futuristic setting.  Character 1, a person with dark hair, glasses, and dark clothing, sits with a worried expression. Character 2, also dark-haired but wearing a light coat, stands holding a device, appearing calm.  Character 3, a child with short dark hair, glasses, and a school uniform, stands holding a piece of paper, exhibiting excitement. Character 4, a person with dark hair and an intense facial expression, hugs Character 5, who has short dark hair, both appearing distressed. Character 4's expression indicates anger and hurt, while Character 5 appears distressed.  The background suggests a futuristic space environment. Text panels include dialogue referencing Japan and the U.S. establishing aerospace defense forces, interstellar war preparations, Nessie sightings, and a GM cannon.  One character expresses anger and frustration at being interrupted during a heartbreak.\n",
+        "processed_at": "20:26:23"
+    },
+    "014.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with short hair",
+                    "description": "A girl with short, slightly messy hair. She's wearing a school uniform. ",
+                    "pose": "Standing, then picking up a dropped item.",
+                    "emotion": "Anxious, then slightly relieved."
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy wearing glasses and a school uniform. He appears nervous.",
+                    "pose": "Standing, looking down, slightly hunched.",
+                    "emotion": "Nervous, apologetic."
+                },
+                {
+                    "name": "Boy with short hair (background)",
+                    "description": "A boy with short hair, partially visible in the background. Also wearing a school uniform.",
+                    "pose": "Standing, looking down.",
+                    "emotion": "Indifferent"
+                },
+                {
+                    "name": "Girl with long hair (background)",
+                    "description": "A girl with long hair, wearing a school uniform. ",
+                    "pose": "Sitting",
+                    "emotion": "Calm"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "I SAID TOO MUCH.\nBUT I DO BELIEVE IN GHOSTS.\nI DON'T BELIEVE IN ALIENS...\nSORRY.\nHERE.\nQUIT TRYNA GET BUDY-BUDDY WITH ME.",
+                "description_scene": "The scene is set in a school hallway. A girl drops something, and a boy apologizes. The dialogue suggests a conversation about beliefs in ghosts and aliens. The girl initially seems anxious but then picks up the dropped item."
+            }
+        },
+        "narrator_script": "The scene takes place in a school hallway. A girl with short, slightly messy hair, wearing a school uniform, is standing. She bends down to pick up a dropped item.  A boy with glasses, also in a school uniform, stands nearby, looking down and slightly hunched.  Partially visible in the background is a boy with short hair, wearing a school uniform, standing and looking down.  A girl with long hair, wearing a school uniform, is sitting in the background.\n",
+        "processed_at": "20:26:31"
+    },
+    "015.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Character A",
+                    "description": "A girl with short, dark hair, wearing a school uniform. She's passionate about the occult.",
+                    "pose": "Slightly tilted head, surprised expression.",
+                    "emotion": "Surprised, passionate"
+                },
+                {
+                    "name": "Character B",
+                    "description": "A boy with glasses and short, dark hair, wearing a school uniform. He's skeptical of the occult.",
+                    "pose": "Standing, arms crossed, slightly leaning forward.",
+                    "emotion": "Skeptical, dismissive"
+                },
+                {
+                    "name": "Character C",
+                    "description": "A girl with short dark hair, wearing a school uniform.",
+                    "pose": "Eyes wide, mouth open, scared expression",
+                    "emotion": "Scared, surprised"
+                },
+                {
+                    "name": "Character D",
+                    "description": "A boy with glasses and short dark hair, wearing a school uniform.",
+                    "pose": "Slightly hunched over looking at a notebook",
+                    "emotion": "Calm, observing"
+                },
+                {
+                    "name": "Character E",
+                    "description": "A girl with short dark hair, wearing a school uniform.  She's angrily confronting Character B.",
+                    "pose": "Leaning forward, pointing finger at Character B.",
+                    "emotion": "Angry, frustrated"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "HEY, DON'T LOOK DOWN ON THE OCCULT!! I GIVE YOU THE CHANCE TO TALK TO ME, AND YOU JUST TAKE A FAT DUMP ON IT?! HEH, THERE'S NO SUCH THING AS GHOSTS! WHAT?! I'LL HAVE YOU KNOW MY GRANDMA'S A PYSCHIC!! WHA AAAA AAT?! THAT'S NO PROOF OF GHOSTS! SPASMS ARE ALSO CAUSED BY MEDICAL CONDITIONS! PEOPLE WHO GET POSSESSED BY THEM START SPAZZING OUT LIKE CRAZY!! YOU EVER SEEN A GHOST BEFORE? THEY'RE SUUUPER SCARY!! WHAT ARE YOU, AN IDIOT?! THAT'S JUMPING TO CONCLUSIONS!! REALLY?! HAVE YOU EVER BEEN ON A UFO RIDE WITH SOME ALIENS, THEN?!",
+                "description_scene": "A discussion between two students about the existence of ghosts. One student is passionate about the occult, while the other is skeptical. The discussion involves medical conditions and paranormal events. The tone is confrontational and humorous."
+            }
+        },
+        "narrator_script": "The scene depicts five students in school uniforms. Character A, a girl with short dark hair, displays a surprised expression, her head slightly tilted. Character B, a boy with short dark hair and glasses, stands with his arms crossed and leans slightly forward.  Character C, a girl with short dark hair, has wide eyes and an open mouth, indicating fear. Character D, a boy with short dark hair and glasses, is hunched over, appearing to examine a notebook. Character E, a girl with short dark hair, leans forward, pointing a finger at Character B, displaying anger.\n",
+        "processed_at": "20:26:37"
+    },
+    "016.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl 1",
+                    "description": "A girl with short hair, seen initially with another girl observing a boy and a girl fighting.",
+                    "pose": "Standing, observing.",
+                    "emotion": "Curious, slightly amused."
+                },
+                {
+                    "name": "Girl 2",
+                    "description": "A girl with short hair, seen initially with another girl observing a boy and a girl fighting.",
+                    "pose": "Standing, observing.",
+                    "emotion": "Curious, slightly amused."
+                },
+                {
+                    "name": "Boy 1",
+                    "description": "A boy with short hair, seen fighting with a girl.",
+                    "pose": "Fighting, being pushed.",
+                    "emotion": "Annoyed, frustrated."
+                },
+                {
+                    "name": "Girl 3",
+                    "description": "A girl with short hair, seen fighting with a boy.",
+                    "pose": "Fighting, pushing a boy.",
+                    "emotion": "Angry, frustrated."
+                },
+                {
+                    "name": "Girl 4 (A-Ayase-san)",
+                    "description": "A girl with long hair, making a demand.",
+                    "pose": "Speaking, forceful.",
+                    "emotion": "Determined, demanding."
+                },
+                {
+                    "name": "Boy 2",
+                    "description": "A boy with glasses and short hair, agreeing to her terms.",
+                    "pose": "Speaking, slightly surprised.",
+                    "emotion": "Slightly surprised, agreeing."
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "SHE GAVE UP ON TAKAKURA KEN AND STARTED GOING AFTER NERDY GUYS... WOW, SHE DON'T EVEN GIVE A DAMN. LOWKEY KINDA LIKE IT. HUH? I'M GONNA MAKE YOU MY ERRAND BOY! ALRIGHT, YOU'RE ON! I'LL MAKE YOU INTO MY ERRAND GIRL, A-AYASE-SAN! IF YOU FIND ONE... I MEAN, UAP! AND I'LL SHOW YOU A REAL UFO!",
+                "description_scene": "The comic starts with two girls observing a boy and a girl fighting in a school hallway.  The narrative then shifts to a conversation between a girl (A-Ayase-san) and a boy who is being enlisted as an errand boy and then the proposition of being shown a UFO if he finds a ghost."
+            }
+        },
+        "narrator_script": "Two girls with short hair observe a boy and a girl fighting.  Girl 3 pushes Boy 1.  A girl with long hair, Girl 4 (A-Ayase-san), speaks forcefully to a boy with glasses and short hair, Boy 2. Boy 2 appears slightly surprised and agrees.\n",
+        "processed_at": "20:26:44"
+    },
+    "017.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Female Protagonist",
+                "description": "A young woman with short, dark hair, wearing a casual outfit. She appears shocked and scared.",
+                "pose": "Holding a smartphone, mouth open in a surprised expression.",
+                "emotion": "Fear, surprise, shock"
+            },
+            "ocr_text_describing": {
+                "dialogue": "WHERE'S THE UFO SPOT?!\nYOU'LL GET ABDUCTED!\nIF YOU SUMMON A UFO ON THE ROOFTOP...\nWHAT IS THIS PLACE?! IT'S FREAKING ME OOOOUUUUT!!\nTHEY CALL THAT \"NAGI HOSPITAL\" PLACE A SANCTUARY FOR ALIENS!",
+                "description_scene": "The comic shows a dilapidated hospital exterior and interior. The protagonist is looking at her phone, seemingly researching a UFO summoning spot.  She ends up at a place she finds frightening, and a second character in the phone reveals that it's known as a place where aliens gather (Nagi Hospital)."
+            }
+        },
+        "narrator_script": "The scene depicts a young woman with short, dark hair, wearing casual clothing.  She is holding a smartphone and has a surprised, frightened expression. Her mouth is open. The text on her phone screen reads: \"WHERE'S THE UFO SPOT?! YOU'LL GET ABDUCTED! IF YOU SUMMON A UFO ON THE ROOFTOP... WHAT IS THIS PLACE?! IT'S FREAKING ME OOOOUUUUT!! THEY CALL THAT \\\"NAGI HOSPITAL\\\" PLACE A SANCTUARY FOR ALIENS!\" The background shows the exterior and interior of a dilapidated hospital building.\n",
+        "processed_at": "20:26:51"
+    },
+    "018.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Character A",
+                    "description": "A person with dark hair, wearing a collared shirt and possibly a necklace. Seems concerned and possibly annoyed.",
+                    "pose": "Sitting or leaning, holding a small device.",
+                    "emotion": "Concerned, annoyed"
+                },
+                {
+                    "name": "Character B",
+                    "description": "A girl with dark hair, wearing a skirt and backpack.  Appears calm or indifferent.",
+                    "pose": "Walking or standing",
+                    "emotion": "Calm, indifferent"
+                },
+                {
+                    "name": "Character C",
+                    "description": "A girl with short dark hair, possibly a school uniform.  Seems surprised.",
+                    "pose": "Standing, hands near her face.",
+                    "emotion": "Surprised, shocked"
+                },
+                {
+                    "name": "Character D",
+                    "description": "A person with dark hair and glasses, appearing thoughtful.",
+                    "pose": "Small character, appears in thought bubbles throughout the comic.",
+                    "emotion": "Thoughtful, possibly skeptical"
+                },
+                {
+                    "name": "Character E",
+                    "description": "A person with dark hair and glasses, appears worried.",
+                    "pose": "Small character, appears in thought bubbles throughout the comic.",
+                    "emotion": "Worried, concerned"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "HUH? IT'S POSSIBLE I HAVE! WHOA, HANG ON! YOU'VE BEEN EXPERIMENTED ON, TOO?! WHADDAYA MEAN, ABDUCTED? HOLD IT, BUCKO. MOST PEOPLE WHO GET ABDUCTED HAVE THEIR MEMORIES WIPED AFTERWARDS! THE ALIENS WILL TAKE YOU ON BOARD THEIR SHIP AND PERFORM EXPERIMENTS ON YOU. DON'T DODGE THE QUESTION. HAVE YOU EVER HEARD OF REGRESSIVE HYPNOSIS? YOU'VE NEVER SEEN A UFO, HAVE YOU? ANYWAY, HOW'S THINGS ON YOUR END? SHADDUP. ALL THAT MATTERS IS THAT I HAVE A GOOD ARGUMENT! IT DOESN'T MATTER WHETHER I'VE SEEN THEM OR NOT!",
+                "description_scene": "The comic depicts a conversation between multiple characters. The setting appears to be an urban, possibly post-apocalyptic environment, as parts of the background show rubble. The dialogue revolves around the possibility of alien abduction and experiments, with one character seemingly having undergone such experiences, while others show disbelief or lack of knowledge about UFOs.  Small character panels convey additional reactions and thoughts."
+            }
+        },
+        "narrator_script": "The comic depicts a conversation among five characters in an urban setting with visible rubble in the background, suggesting a possibly post-apocalyptic environment.  Character A, a person with dark hair in a collared shirt, sits or leans, holding a small device, appearing concerned and annoyed. Character B, a dark-haired girl in a skirt and backpack, stands or walks, appearing calm and indifferent. Character C, a girl with short dark hair, possibly in a school uniform, stands with hands near her face, looking surprised.  Two smaller characters, D and E, both with dark hair and glasses, appear in thought bubbles throughout the comic. Character D appears thoughtful, possibly skeptical, while Character E looks worried and concerned. The dialogue bubbles reveal a discussion about alien abduction and experimentation.\n",
+        "processed_at": "20:26:56"
+    },
+    "019.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Character 5",
+                "description": "A boy wearing a dark jacket, appears to be shocked",
+                "pose": "Standing",
+                "emotion": "Shocked"
+            },
+            "ocr_text_describing": {
+                "dialogue": "To the spirit spot. Time to prove you wrong once and for all! Oh, and you're definitely gonna see something. This place's famous on the internet. Hey, you ain't chickening out, are you? Th-that there's no such thing as ghosts! I've made it...",
+                "description_scene": "A young boy has arrived at a tunnel, which is said to be a spirit spot. He seems determined to prove something to someone else (possibly on the phone). The other characters shown appear to be skeptical of his claim. One character is seemingly terrified. The environment is shown to be old and run down."
+            }
+        },
+        "narrator_script": "The scene depicts five characters. Character 1, a young boy with a backpack, stands at a tunnel entrance.  Character 2, a boy, sits and appears to be on a phone, exhibiting anger. Character 3, a boy in a school uniform, is walking or running, showing fear. Character 4, a girl, is visible on a small screen, appearing neutral.  Character 5, a boy in a dark jacket, stands with a shocked expression.  The setting is an old, run-down tunnel, described as a \"spirit spot.\"\n",
+        "processed_at": "20:27:05"
+    },
+    "020.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Ayase-san",
+                    "description": "A young woman with shoulder-length hair, wearing a collared shirt and a backpack.",
+                    "pose": "Sitting, looking at a phone.",
+                    "emotion": "Smug"
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy with glasses, wearing school uniform.",
+                    "pose": "Talking on the phone, surprised expression.",
+                    "emotion": "Surprised, slightly scared"
+                },
+                {
+                    "name": "Boy in school uniform",
+                    "description": "A boy in school uniform, seen in the background of the comic.",
+                    "pose": "Standing in a hallway, seeming to be shouting.",
+                    "emotion": "Anxious, shy"
+                },
+                {
+                    "name": "Girl with short hair",
+                    "description": "A girl with short hair, seen briefly in one panel.",
+                    "pose": "In a small inset panel; small figure.",
+                    "emotion": "Surprised"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "YOU'VE NEVER SEEN A GHOST IN PERSON BEFORE, AYASE-SAN? WAIT, YOU JUST SAID \"ON THE NET\"... THEY SAY SCREAMING THE LYRICS IS A REALLY BAD IDEA... KONO SHUNK-AN NIIIII! TOO SHY SHY BOOOY! NOPE. ON THE NET, THAT IS. TOO SHY SHY BOY... IT'S SO WEIRD TO BELIEVE IN GHOSTS WHEN YOU'VE NEVER SEEN THEM! GIVE ME BACK THE ATTITUDE YOU HAD EARLIER! HEY, THANKS FOR THE COMPLIMENT! HOW CAN YOU SAY THAT SO SMUGLY! 'CAUSE BOTH MY PARENTS ARE GONE. I WAS RAISED BY HER, TOO. NO IT AIN'T. I TOLD YOU MY GRANDMA'S A PSYCHIC.",
+                "description_scene": "The comic depicts a conversation between two characters. One character is talking on the phone and is surprised to learn that the other character believes in ghosts despite never having seen one.  The other character is smug and explains that she was raised by someone who believes in ghosts. There are various smaller scenes showing the characters in different locations."
+            }
+        },
+        "narrator_script": "The scene opens on Ayase-san, a young woman with shoulder-length hair, a collared shirt, and a backpack, sitting and looking at her phone with a smug expression.  A boy with glasses, wearing a school uniform, is shown talking on a phone, exhibiting a surprised and slightly scared expression.  In the background, another boy in a school uniform stands in a hallway, appearing to shout, looking anxious and shy.  A brief inset panel shows a girl with short hair, appearing surprised.  The dialogue bubbles include the phrases: \"YOU'VE NEVER SEEN A GHOST IN PERSON BEFORE, AYASE-SAN?\", \"ON THE NET...\", \"SCREAMING THE LYRICS IS A REALLY BAD IDEA...\", \"KONO SHUNK-AN NIIIII!\", \"TOO SHY SHY BOOOY!\", \"NOPE. ON THE NET, THAT IS.\", \"TOO SHY SHY BOY...\", \"IT'S SO WEIRD TO BELIEVE IN GHOSTS WHEN YOU'VE NEVER SEEN THEM!\", \"GIVE ME BACK THE ATTITUDE YOU HAD EARLIER!\", \"HEY, THANKS FOR THE COMPLIMENT!\", \"HOW CAN YOU SAY THAT SO SMUGLY!\", \"'CAUSE BOTH MY PARENTS ARE GONE.\", \"I WAS RAISED BY HER, TOO.\", \"NO IT AIN'T.\", \"I TOLD YOU MY GRANDMA'S A PSYCHIC.\"\n",
+        "processed_at": "20:27:12"
+    },
+    "021.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Boy who made fun of her",
+                "description": "Not directly visible but alluded to as the source of the girl's worst experience",
+                "pose": "Not shown",
+                "emotion": "Not applicable"
+            },
+            "ocr_text_describing": {
+                "dialogue": "WHENEVER I WENT OUTSIDE, I ALWAYS HAD TO DO SOME KINDA SPELL. EVEN WHEN I WAS AT SCHOOL. AND IF I DIDN'T DO IT, GRANDMA'D GET MAD AT ME AND I'D FEEL TERRIBLE. WAS WHEN I GOT MADE FUN OF BY THE BOY I LIKED. WHAT'RE YOU ACTING ALL TIMID FOR? OH... I SEE... SEE, MY FAMILY'S REALLY WEIRD... HEAR ME OUT FOR A BIT. OBVIOUSLY ALL THE BOYS MADE FUN OF ME. BUT WHAT WAS THE WORST FOR ME...",
+                "description_scene": "The comic shows flashbacks of the girl's childhood, focusing on her experiences of feeling pressured to perform certain rituals and being made fun of by her peers. The dialogue reveals that she felt different because her family is 'weird', and the boy she liked made fun of her, causing her greater distress than the teasing from other boys."
+            }
+        },
+        "narrator_script": "The comic opens with a close-up of a girl with short hair, wearing a school uniform and backpack.  She has a somber expression.  A panel shows her walking. Another panel shows her standing, looking reflective.  A smaller panel shows a boy with short hair and glasses, wearing a school uniform, sitting and talking on a phone; he appears slightly concerned. Another small panel shows a girl with short hair talking on a phone, appearing worried.  A distant panel shows a group of people, possibly a family, dancing or moving in an unusual manner. The main girl's face is shown again, close-up.  The panels depict flashbacks. No other characters besides the ones described are visually present.\n",
+        "processed_at": "20:27:20"
+    },
+    "022.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl 1",
+                    "description": "A girl with short hair, wearing a school uniform.",
+                    "pose": "Walking away, later standing still and looking down",
+                    "emotion": "Sad, Regretful"
+                },
+                {
+                    "name": "Boy",
+                    "description": "A boy with short hair, wearing a school uniform, carrying a backpack.",
+                    "pose": "Running, away from the girl",
+                    "emotion": "Happy, unaware"
+                },
+                {
+                    "name": "Girl 2",
+                    "description": "A girl with short hair, wearing a school uniform.",
+                    "pose": "Looking away",
+                    "emotion": "Sad, regretful"
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy with short hair and glasses, wearing a shirt and jacket.",
+                    "pose": "Talking on a phone",
+                    "emotion": "Angry, upset"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "I TOLD HER THAT IT WAS THAT STUPID SPELL'S FAULT THAT THE BOY I LIKED DIDN'T LIKE ME. I REALLY HATED MY GRANDMA. TO HER. I SAID SOME PRETTY AWFUL STUFF... I GET REALLY PISSED. BUT WHENEVER PEOPLE MAKE FUN OF MY FAMILY... AND I STOPPED DOING THE SPELL. I DIDN'T SPEAK WITH HER AT ALL UNTIL JUST RECENTLY. MADE FUN OF MY GRANDMA. I HATED THAT THE BOY I LIKED... I DIDN'T HATE THAT THE BOY I LIKED DIDN'T LIKE ME. AND I REALIZED...",
+                "description_scene": "The comic depicts a series of flashbacks showing a girl realizing the error in her actions of blaming a spell and her grandmother for her unrequited love. She reflects on her past behavior and the effect it had on her relationship with her grandmother. The flashbacks show her with her friend and also a boy she liked."
+            }
+        },
+        "narrator_script": "The comic opens with a girl with short hair in a school uniform walking away, then standing still, looking down.  Her expression is sad. A boy with short hair, in a school uniform and carrying a backpack, runs away from her. He appears happy. Another girl with short hair in a school uniform looks away; her expression is sad. A boy with short hair and glasses, wearing a shirt and jacket, talks on a phone, appearing angry.\n",
+        "processed_at": "20:27:28"
+    },
+    "023.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Grandmother",
+                    "description": "An older woman, possibly a medium.  She is wearing traditional Japanese clothing.",
+                    "pose": "Hugging her granddaughter tightly.",
+                    "emotion": "Loving and affectionate."
+                },
+                {
+                    "name": "Granddaughter (younger)",
+                    "description": "A young girl, likely in elementary or middle school. Wears a school uniform.",
+                    "pose": "Being hugged by her grandmother.",
+                    "emotion": "Happy and grateful."
+                },
+                {
+                    "name": "Granddaughter (older)",
+                    "description": "An older version of the granddaughter. Wears casual clothing and a backpack.",
+                    "pose": "Standing with her back to the viewer, looking at a spot in the distance.",
+                    "emotion": "Reflective."
+                },
+                {
+                    "name": "Grandmother (Older Granddaughter's POV)",
+                    "description": "A depiction of the grandmother, but from the older granddaughter's perspective; shown walking with the younger granddaughter.",
+                    "pose": "Walking hand-in-hand with the younger granddaughter.",
+                    "emotion": "Calm and nurturing"
+                },
+                {
+                    "name": "Younger Granddaughter (Older Granddaughter's POV)",
+                    "description": "A younger version of the older granddaughter, walking with her grandmother in the past.",
+                    "pose": "Walking hand-in-hand with her grandmother.",
+                    "emotion": "Happy and carefree"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "AND HER JOB AS A MEDIUM... REALLY, I LOVED MY GRANDMA... 'CAUSE THEY FELT SPECIAL TO ME. AND I DUNNO WHETHER MY GRANDMA ACTUALLY HAS A SIXTH SENSE OR WHATEVER. THAT'S WHY... I BELIEVE IN HER. HONESTLY, I'VE NEVER SEEN A GHOST BEFORE. BUT SHE TOOK ME IN... AND RAISED ME ALL ON HER OWN.",
+                "description_scene": "The comic shows a series of scenes depicting a young girl's relationship with her grandmother, who appears to have psychic abilities.  The first panel shows a heartwarming hug, the second panel shows the older granddaughter reflecting on her grandmother's abilities and her own experience of seeing her grandmother perform mediumship, the third panel depicts the granddaughter, now older, reflecting on how her grandmother raised her alone,  emphasizing the loving bond between them."
+            }
+        },
+        "narrator_script": "The first image depicts an older woman in traditional Japanese clothing hugging a younger girl in a school uniform.  The older woman's expression is loving and affectionate; the younger girl appears happy and grateful.\n\nThe second image shows an older girl with a backpack, standing with her back to the viewer, looking at something in the distance. Her expression is reflective.\n\nThe third image shows the older woman walking hand-in-hand with the younger girl from the first image. The older woman's expression is calm and nurturing; the younger girl appears happy and carefree.\n",
+        "processed_at": "20:27:34"
+    },
+    "024.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Ayase",
+                    "description": "A girl with long, dark hair. She's the main focus of the first panel and appears later in the comic.",
+                    "pose": "Initially shown in a close-up, later shown standing in an outdoor setting.",
+                    "emotion": "Calm, thoughtful"
+                },
+                {
+                    "name": "Boy with glasses (talking on phone)",
+                    "description": "A boy with glasses, wearing a school uniform, seen talking on his phone throughout the comic.",
+                    "pose": "Sitting, talking on the phone.",
+                    "emotion": "Slightly surprised, then calm, then amused"
+                },
+                {
+                    "name": "Girl with earrings",
+                    "description": "A girl with dark hair and earrings, appears briefly as a small image.",
+                    "pose": "Small image, face only",
+                    "emotion": "Neutral"
+                },
+                {
+                    "name": "Girl in a skirt",
+                    "description": "A girl with short hair wearing a school skirt and sweater, appears in the final panel",
+                    "pose": "Standing in a dilapidated room",
+                    "emotion": "Neutral"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "I BELIEVE IN GHOSTS, TOO.\nUH...\nSO HOW 'BOUT YOU? WHY DO YOU BELIEVE IN ALIENS?\nOH... REALLY...?\nSAY, YOU'RE PRETTY BRISK WHEN YOU'RE ON THE PHONE.\nAND THAT'S WHY...\nREEE-AAALLY? NONE AT ALL?\nUM... NO REASON IN PARTICULAR.\nDO I NEED A REASON TO LIKE WHAT I LIKE?!\nWELL, I GUESS YOU'RE KIND OF EASY TO TALK TO, AYASE-SAN\nOBVIOUSLY!",
+                "description_scene": "The comic shows a conversation between two characters primarily through text bubbles and small image inserts. The initial panel features a close-up of a girl's face followed by a series of panels showing a conversation between a boy on the phone and different people.  The final panel shows the first girl standing in a seemingly abandoned building."
+            }
+        },
+        "narrator_script": "The comic opens with a close-up of Ayase's face.  A boy with glasses is shown sitting and talking on a phone. Text bubbles indicate a conversation.  A small image of a girl with earrings appears briefly. The conversation continues between the boy on the phone and different individuals, shown through small images and text bubbles. The final panel depicts Ayase standing in a dilapidated room.\n",
+        "processed_at": "20:27:41"
+    },
+    "025.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Man",
+                "description": "A man with glasses, mostly obscured by his jacket, only partially seen in the frame. His clothing suggests a somewhat formal or serious style.",
+                "pose": "Turned away from the viewer, only his back and shoulders are visible.",
+                "emotion": "Difficult to determine, appears cautious or wary of the old woman"
+            },
+            "ocr_text_describing": {
+                "dialogue": null,
+                "description_scene": "The scene takes place in a dark, narrow tunnel or corridor. The lighting is dim. The old woman is walking towards the viewer,  while the man appears to be turning to look at the old woman and the back of the man is visible."
+            }
+        },
+        "narrator_script": "The scene depicts a dark, narrow tunnel or corridor.  An elderly woman with long white hair, appearing gaunt with hollow eyes, walks toward the viewer, slightly hunched.  Her expression is difficult to discern. A man, partially visible and wearing a jacket suggesting a formal style, is turned away from the viewer. Only his back and shoulders are seen. His expression is also indiscernible.  No dialogue is present.\n",
+        "processed_at": "20:27:48"
+    },
+    "026.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Boy with glasses",
+                    "description": "A young boy with glasses, appears shocked and scared.",
+                    "pose": "Holding a phone, eyes wide open.",
+                    "emotion": "Fear, shock"
+                },
+                {
+                    "name": "Girl with dark hair",
+                    "description": "A girl with long dark hair, looks concerned.",
+                    "pose": "Looking on with a worried expression.",
+                    "emotion": "Worried, scared"
+                },
+                {
+                    "name": "Old woman",
+                    "description": "An old woman with a terrifying face, partially obscured by a hood.",
+                    "pose": "Standing, possibly making a lewd proposition",
+                    "emotion": "Lewd, predatory"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "NOW LET ME SUCK YOUR DICK. \nGHOOOOOOOST!! \nWAIT!! \nDON'T RUN AWAY!! \nI'LL LET YOU SUCKLE MY TITTIES.",
+                "description_scene": "A scene where an old woman makes sexually suggestive remarks towards two younger people. They seem to be terrified."
+            }
+        },
+        "narrator_script": "The scene depicts an old woman, partially obscured by a hood, standing near a boy and a girl.  The boy is holding a phone and his eyes are wide. The girl has long dark hair and a worried expression. The old woman appears to be making a lewd proposition. Text present in the scene reads: \"NOW LET ME SUCK YOUR DICK. GHOOOOOOOST!! WAIT!! DON'T RUN AWAY!! I'LL LET YOU SUCKLE MY TITTIES.\"\n",
+        "processed_at": "20:27:52"
+    },
+    "027.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Boy on bicycle",
+                    "description": "A boy with glasses riding a bicycle.",
+                    "pose": "Riding a bicycle, slightly surprised/scared",
+                    "emotion": "Fear, surprise"
+                },
+                {
+                    "name": "Running Boy",
+                    "description": "A boy in a suit running away from something.",
+                    "pose": "Running, reaching out",
+                    "emotion": "Fear, panic"
+                },
+                {
+                    "name": "Boy with glasses (2)",
+                    "description": "A boy with glasses, possibly the same as the first one.",
+                    "pose": "Stands near his bicycle looking shocked",
+                    "emotion": "Shock, disbelief"
+                },
+                {
+                    "name": "Figure in tunnel",
+                    "description": "A figure in the distance in a tunnel, initially mistaken for a ghost, later revealed as an old woman.",
+                    "pose": "Walking",
+                    "emotion": "unknown"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "NO!!\nIT CAN'T BE!!\nIT HAS TO BE!!\nTHAT'S JUST SOME OLD LADY!!\nHOLD IT, OCCULT BOY!!\nHUFF HUFF\nI MUST'VE MISTAKEN IT FOR A GHOST!\nIT SAYS ON THE NET THAT THING'S REALLY DANGERO US!!\nSTOP, NOW!!\nJUST SOME OLD LADY!!\nYOU CAN'T LET THAT THING OVERTAKE YOU!!\nI JUST RAN INTO SOME HORNY OLD COUGAR, THAT'S ALL!",
+                "description_scene": "The comic depicts a series of panels showing two boys encountering a figure in a tunnel. The first boy initially believes it to be a ghost, while the second boy identifies it as just some old lady. The second boy, running away from her initially, is then seen reflecting upon his initial fright in relation to his fear being overblown. The scene is set in and around a tunnel, with a bicycle present in one panel. There's a sense of tension and resolution as the situation is clarified."
+            }
+        },
+        "narrator_script": "A boy on a bicycle, wearing glasses, is shown. His pose suggests surprise or fear.  Another boy, wearing a suit, runs, reaching out. He appears fearful. A second depiction of a boy with glasses, possibly the same boy as the first, stands near a bicycle, appearing shocked. A figure is seen in the distance within a tunnel.  The figure is walking.\n",
+        "processed_at": "20:27:57"
+    },
+    "028.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Turbo-Granny",
+                    "description": "A ghostly figure with a skeletal appearance, seemingly capable of supernatural speed.",
+                    "pose": "Chasing a cyclist.",
+                    "emotion": "Menacing"
+                },
+                {
+                    "name": "Cyclist",
+                    "description": "A young man on a bicycle, being chased by the Turbo-Granny.",
+                    "pose": "Riding a bicycle, looking back in fear.",
+                    "emotion": "Fearful"
+                },
+                {
+                    "name": "Occult Boy",
+                    "description": "A young man with short dark hair, seemingly involved in occult activities.",
+                    "pose": "Holding a device, possibly a phone, talking into it.",
+                    "emotion": "Concerned, serious"
+                },
+                {
+                    "name": "Girl",
+                    "description": "A young girl with shoulder-length dark hair, wearing a school uniform.",
+                    "pose": "Walking down a hallway.",
+                    "emotion": "Worried, skeptical"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "YOU'LL BE CURSED!!\nIF THE TURBO-GRANNY OUTRUNS YOU...\nHEL-LOOOO?! ANSWER ME!!\nCAN YOU HEAR ME, OCCULT BOY?!\nHEY!\nJUST HANG ON!!\nI'M HEADED YOUR WAY RIGHT NOW!\nUGH, YOU'VE GOTTA BE KIDDING!",
+                "description_scene": "The comic depicts a chase scene between a ghostly figure called \"Turbo-Granny\" and a cyclist, who is warned he'll be cursed if caught.  The occult boy is talking to someone, possibly on a phone, and a girl reacts incredulously to the situation. The scene switches between the chase, communication and a hallway where the girl walks."
+            }
+        },
+        "narrator_script": "The scene opens with Turbo-Granny, a skeletal figure, chasing a cyclist. The cyclist is riding a bicycle and looking back in fear.  The occult boy is holding a device and appears to be speaking into it.  A girl is walking down a hallway. Text on the page reads: \"YOU'LL BE CURSED!! IF THE TURBO-GRANNY OUTRUNS YOU... HEL-LOOOO?! ANSWER ME!! CAN YOU HEAR ME, OCCULT BOY?! HEY! JUST HANG ON!! I'M HEADED YOUR WAY RIGHT NOW! UGH, YOU'VE GOTTA BE KIDDING!\"\n",
+        "processed_at": "20:28:03"
+    },
+    "029.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Girl",
+                "description": "A young girl with long dark hair tied in pigtails, wearing a school uniform and carrying a backpack. She is looking down at a smartphone.",
+                "pose": "Walking, looking down at her phone",
+                "emotion": "Neutral or slightly apprehensive"
+            },
+            "ocr_text_describing": {
+                "dialogue": "",
+                "description_scene": "The girl is walking down a dark, dilapidated hallway or corridor. There are three identical figures standing at the end of the hallway, facing away from the girl. The figures appear to be wearing similar light colored shirts and dark pants. The scene has a mysterious and possibly creepy atmosphere. The ground is strewn with debris and rubble."
+            },
+            "character2": {
+                "name": "Identical Figures",
+                "description": "Three identical figures in matching clothes standing at the end of a hallway. Their features are rather obscured, giving an eerie quality.",
+                "pose": "Standing, facing the girl.",
+                "emotion": "Unclear, possibly unsettling"
+            }
+        },
+        "narrator_script": "A young girl with long dark hair in pigtails, wearing a school uniform and carrying a backpack, walks down a dark hallway.  She is looking down at a smartphone. The hallway is dilapidated, with debris and rubble on the ground. Three identical figures stand at the end of the hallway, facing away from the girl.  The figures appear to be wearing light-colored shirts and dark pants. Their features are indistinct.\n",
+        "processed_at": "20:28:09"
+    },
+    "030.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl in school uniform",
+                    "description": "A young girl with dark hair, wearing a school uniform. She appears to be running and scared.",
+                    "pose": "Running",
+                    "emotion": "Scared, panicked"
+                },
+                {
+                    "name": "Girl with phone",
+                    "description": "A young woman with dark hair wearing a collared shirt, she is looking at her phone with a worried expression.",
+                    "pose": "Looking at phone",
+                    "emotion": "Worried, concerned"
+                },
+                {
+                    "name": "Masked figures",
+                    "description": "Three identical large figures wearing masks with unsettling smiles. They are wearing white shirts.",
+                    "pose": "Standing",
+                    "emotion": "Menacing, unsettling"
+                },
+                {
+                    "name": "Girl with sweat",
+                    "description": "A young woman with dark hair, looking worried and sweating",
+                    "pose": "Standing still",
+                    "emotion": "Worried, anxious"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "PLEASE STOP... WHAT THE...",
+                "description_scene": "The scene shows a girl running away from unsettling masked figures. Another girl looks at her phone in a worried manner. The setting seems dark and potentially dangerous."
+            }
+        },
+        "narrator_script": "The scene depicts a young girl in a school uniform running.  She appears scared. Another young woman with dark hair and a collared shirt looks at her phone, exhibiting a worried expression. Three large figures, identical in appearance, stand in the scene. They wear masks with unsettling smiles and white shirts. A fourth young woman with dark hair stands still, appearing worried and sweating.  The text visible in the scene reads “PLEASE STOP… WHAT THE…”\n",
+        "processed_at": "20:28:14"
+    },
+    "031.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl",
+                    "description": "A schoolgirl with dark hair, wearing a school uniform.",
+                    "pose": "Running, then being grabbed and struggling.",
+                    "emotion": "Fear, then terror."
+                },
+                {
+                    "name": "Men",
+                    "description": "Three adult men with exaggerated features, wearing similar light-colored shirts and dark pants.",
+                    "pose": "Chasing the girl.",
+                    "emotion": "Menacing, aggressive."
+                },
+                {
+                    "name": "Other Men",
+                    "description": "Two or more other hands and forearms grabbing and restraining the girl.",
+                    "pose": "Grabbing and holding the girl.",
+                    "emotion": "Aggressive, violent."
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": null,
+                "description_scene": "The scene unfolds in three panels. In the first panel, a schoolgirl is running away from three oddly shaped men in a dark corridor. The second panel depicts the girl being grabbed by a man from behind, while she struggles and makes a desperate expression. The final panel shows the girl being restrained and pulled by more people while her uniform is being taken off."
+            }
+        },
+        "narrator_script": "Panel one: A schoolgirl in a uniform runs down a dark corridor pursued by three men.  The men are wearing light-colored shirts and dark pants.\n\nPanel two: The schoolgirl is grabbed from behind by one of the men. She struggles.\n\nPanel three: The schoolgirl is held and restrained by several hands and forearms. Her uniform is being removed.\n",
+        "processed_at": "20:28:19"
+    },
+    "032.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Woman",
+                    "description": "A woman with long dark hair, wearing a low-cut top. She is being attacked and her clothes are being ripped.",
+                    "pose": "Being restrained and attacked, screaming",
+                    "emotion": "Terror, pain"
+                },
+                {
+                    "name": "Masked Man",
+                    "description": "A man wearing a mask that resembles a skull or a grotesque face. He appears to be one of the attackers.",
+                    "pose": "Holding the woman's face and ripping her clothing",
+                    "emotion": "Aggressive, malevolent"
+                },
+                {
+                    "name": "Attackers",
+                    "description": "Multiple figures whose bodies are partially obscured, appearing to be assisting in the attack. Their forms are fragmented, implying a chaotic struggle.",
+                    "pose": "Grappling with and restraining the woman",
+                    "emotion": "Violent, antagonistic"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "",
+                "description_scene": "A violent scene of a woman being attacked by multiple figures. The woman is being held down and her clothes are being torn apart. The attackers are partially obscured and appear to be using force. The scene is dynamic and chaotic, with many lines suggesting movement and struggle. The bottom of the image features three blank horizontal lines, which are likely for dialogue or narration."
+            }
+        },
+        "narrator_script": "The image depicts a woman with long dark hair wearing a low-cut top.  She is being restrained and attacked by multiple figures.  Her clothing is being ripped. One attacker is a masked man wearing a skull-like or grotesque mask; he is holding the woman's face and tearing her clothing.  Other attackers' bodies are partially visible; they appear to be assisting in restraining the woman. The scene is chaotic and depicts a violent struggle.  Three blank horizontal lines are present at the bottom of the image.\n",
+        "processed_at": "20:28:24"
+    },
+    "033.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:29"
+    },
+    "034.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:30"
+    },
+    "035.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:31"
+    },
+    "036.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:32"
+    },
+    "037.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:33"
+    },
+    "038.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:34"
+    },
+    "039.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:34"
+    },
+    "040.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:35"
+    },
+    "041.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:36"
+    },
+    "042.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:37"
+    },
+    "043.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:38"
+    },
+    "044.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:39"
+    },
+    "045.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:40"
+    },
+    "046.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:40"
+    },
+    "047.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:41"
+    },
+    "048.jpg": {
+        "error": "429 Resource has been exhausted (e.g. check quota).",
+        "processed_at": "20:28:42"
+    },
+    "049.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl 1",
+                    "description": "A young girl wearing a school uniform and carrying a backpack.",
+                    "pose": "Standing, looking slightly upset.",
+                    "emotion": "Annoyed, slightly frustrated"
+                },
+                {
+                    "name": "Woman",
+                    "description": "An adult woman wearing traditional Japanese clothing.",
+                    "pose": "Standing, seemingly calm but assertive",
+                    "emotion": "Calm, slightly condescending"
+                },
+                {
+                    "name": "Girl 2",
+                    "description": "Another young girl wearing a school uniform and pleated skirt.",
+                    "pose": "Standing, hands on her stomach, looking determined",
+                    "emotion": "Focused, determined"
+                },
+                {
+                    "name": "Girl 3",
+                    "description": "A young girl with short hair, wearing a school uniform",
+                    "pose": "Pointing with her finger upwards",
+                    "emotion": "Excited, slightly mischievous"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "MY FRIENDS MAKE FUN OF ME FOR IT! EVERY SINGLE DAY... NO! I DON'T WANTA! LET ME AROUSE YOU AGAIN. AND TROUBLEMAKERS WON'T EVEN BE ABLE TO GET CLOSE TO YOU! LET OUT YOUR QI! NOW... URGH... ! YOU WON'T HAVE TO WORRY ABOUT ACCIDENTS OR SICKNESS! WHAT'RE YOU SAYING! IF YOU LET OUT YOUR QI... THEN, IMAGINE LETTING THE QI OUT THE TOP OF YOUR HEAD WITH A BIG FLASH! FIRST, LET THE POWER INTO THE PIT OF YOUR STOMACH...",
+                "description_scene": "The comic shows a conversation between a girl and a woman. The girl is complaining about her friends making fun of her for something, possibly related to her Qi.  The woman seems to be teaching her how to control her Qi, suggesting it will protect her from troublemakers and any sickness."
+            }
+        },
+        "narrator_script": "The scene depicts four individuals: a young girl in a school uniform, appearing slightly upset; an adult woman in traditional Japanese clothing, exhibiting a calm yet assertive demeanor; a second young girl in a school uniform and pleated skirt, displaying a determined expression; and a third young girl with short hair and a school uniform, pointing upwards with an excited expression.  The woman is speaking to the first girl.  Text bubbles show dialogue suggesting the girl is complaining about being teased by friends, and the woman is instructing her in a technique, possibly related to controlling internal energy (“Qi”), implying protection from harm and illness.\n",
+        "processed_at": "20:28:43"
+    },
+    "050.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Momo",
+                    "description": "A young girl with long hair, appears to be concerned or trying to stop someone.",
+                    "pose": "Calling out to someone, slightly panicked.",
+                    "emotion": "Worried"
+                },
+                {
+                    "name": "Girl with backpack",
+                    "description": "A young girl with short hair, running away.",
+                    "pose": "Running away, backpack on her shoulders.",
+                    "emotion": "Determined, maybe scared"
+                },
+                {
+                    "name": "Grandma",
+                    "description": "An older woman, possibly the girl's grandmother.",
+                    "pose": "Standing calmly.",
+                    "emotion": "Calm, possibly annoyed"
+                },
+                {
+                    "name": "Girl (Protagonist)",
+                    "description": "A young girl, possibly the girl with the backpack, remembering a past incident.",
+                    "pose": "Lying down, eyes closed, remembering.",
+                    "emotion": "Embarrassed, regretful"
+                },
+                {
+                    "name": "Boy group",
+                    "description": "A group of boys are teasing the girl.",
+                    "pose": "Teasing and laughing.",
+                    "emotion": "Happy, making fun"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "MOMO, WAIT!! I'VE HAD IT!! I DON'T WANNA DO IT AGAIN!! SHE TRYNA TALK TO ALIENS OR SOMETHING?! HAH HAH! CHECK IT OUT! SHE'S DOING IT AGAIN! YOU PHONY-BALONEY PSYCHIC!! I HATE YOU, GRAND-MA!! I WAS JUST EMBARRASSED BACK THEN... I'M SORRY, GRANDMA. WHY AM I REMEMBERING THAT NOW...? THEN, IMAGINE LETTING THE QI OUT THE TOP OF YOUR HEAD... LET THE POWER INTO THE PIT OF YOUR STOM-ACH...",
+                "description_scene": "The comic depicts a young girl running away from someone, possibly her grandmother, after an incident involving some sort of psychic ability. The scene shifts to a flashback where the girl is teased by a group of boys for the same incident. The girl reflects on her embarrassment from the past and apologizes to her grandmother. The dialogue suggests that the girl has psychic abilities and is not comfortable with using them."
+            }
+        },
+        "narrator_script": "The scene opens with Momo calling out to a girl with a backpack who is running away.  A grandmother stands calmly nearby.  The girl with the backpack is shown lying down, eyes closed, in a separate panel.  A group of boys are shown laughing and teasing the girl with the backpack.\n",
+        "processed_at": "20:28:50"
+    },
+    "051.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Mechanical Being",
+                "description": "A partially mechanical, damaged being, possibly a robot or cyborg,  shown in a close-up.",
+                "pose": "Mouth open, damaged features visible",
+                "emotion": "Pain or distress"
+            },
+            "ocr_text_describing": {
+                "dialogue": "NO WAY!",
+                "description_scene": "A woman in a bikini is falling into or being pulled into a large mechanical device or structure. The scene is chaotic and shows signs of destruction.  Another character, a girl, is reacting with disbelief to the event. A partially mechanical being is also shown in distress."
+            }
+        },
+        "narrator_script": "The scene depicts a woman with long hair, wearing a bikini top, falling. Her arms are outstretched.  A close-up shows a girl with short hair, her eyes wide.  A close-up of a partially mechanical being reveals damaged features and an open mouth.  Text reads \"NO WAY!\". The scene shows a woman in a bikini falling into a large mechanical structure.  The structure appears damaged.\n",
+        "processed_at": "20:28:56"
+    },
+    "052.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Ayase",
+                    "description": "A young woman with red hair, appearing to have psychic powers.",
+                    "pose": "Flying backwards, seemingly repelled by a force.",
+                    "emotion": "Surprised, then scared"
+                },
+                {
+                    "name": "A black-haired woman",
+                    "description": "A mysterious woman with black hair and a striped outfit, possibly a psychic.",
+                    "pose": "Pushing back at Ayase with psychic power.",
+                    "emotion": "Determined"
+                },
+                {
+                    "name": "Blonde woman",
+                    "description": "A blonde woman, possibly a psychic.",
+                    "pose": "Looking surprised and slightly fearful.",
+                    "emotion": "Surprised, shocked"
+                },
+                {
+                    "name": "Grandma",
+                    "description": "An older woman, revealed to be a real psychic.",
+                    "pose": "Shown as a large face with intricate patterns.",
+                    "emotion": "Calm"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "NOOOOO!! THE HUMAN'S PUSHING BACK AGAINST MY PSYCHOKINESIS!!\nHOW!!\nSHE WASN'T ABLE TO USE PSYCHOKINESIS EARLIER!!\nHER CHAKRAS WERE OPENED!!\nYOU COULD USE PSYCHIC POWERS, AYASE-SAN?!\nNO, I'M SPOOKED BY THIS TOO!!\nSINCE I OVERSTIMULATED THE FEMALE HUMAN'S BRAIN-WAVES WITH MY PSYCHOKINESIS...\nIT CAN'T BE!!\nTHANKS, GRANDMA!! NOW, WITH THIS...\nGRANDMA WAS A REAL PSYCHIC ALL ALONG!\nIT WAS ALL REAL...",
+                "description_scene": "A psychic battle between two women. One woman (Ayase) is being pushed back by another woman's psychic powers. A third blonde woman is witnessing the events with a shocked expression.  The situation is revealed to have been instigated by the powers of a 'grandma', also a psychic. The scene seems to take place in space or a starry setting."
+            }
+        },
+        "narrator_script": "The scene depicts four women.  Ayase, a young woman with red hair, is flying backward. A black-haired woman in a striped outfit is pushing Ayase back with what appears to be psychic energy.  A blonde woman observes the scene with a surprised expression. An older woman's large face, featuring intricate patterns, is also visible.  The background suggests a space or star-filled setting.\n",
+        "processed_at": "20:29:01"
+    },
+    "053.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Kicker",
+                    "description": "A woman with long hair, wearing a sleeveless top and shorts. She has a confident and powerful demeanor.",
+                    "pose": "She is shown in a dynamic pose, mid-kick, suggesting she's delivering a powerful blow.",
+                    "emotion": "Confident, arrogant, and powerful."
+                },
+                {
+                    "name": "Scum Bags",
+                    "description": "Two figures wearing striped clothing, seemingly defeated.  Their design suggests they may be antagonists or henchmen.",
+                    "pose": "Both are lying on the ground, either unconscious or incapacitated. One is shown being kicked.",
+                    "emotion": "Defeated, possibly injured or unconscious."
+                },
+                {
+                    "name": "Small Figure",
+                    "description": "A small figure visible in the background, seemingly observing the events.",
+                    "pose": "Falling downwards",
+                    "emotion": "Unknown, could be fear, surprise, or observation."
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "I CAN KICK THESE SCUM BAGS SEVEN WAYS TO SUNDAY!!",
+                "description_scene": "The scene depicts a powerful woman kicking two defeated figures who are lying on the ground in what appears to be a tiled room. A small figure is also seen in the background, possibly a bystander. The overall style is dynamic, with exaggerated movement and impact lines suggesting the force of the kick."
+            }
+        },
+        "narrator_script": "A woman, Kicker, wearing a sleeveless top and shorts, is depicted mid-kick.  Her pose suggests a forceful blow. Two figures, Scum Bags, in striped clothing, lie on the ground. One is being kicked.  They appear incapacitated. A small figure is visible falling in the background.  The setting appears to be a tiled room.  The text \"I CAN KICK THESE SCUM BAGS SEVEN WAYS TO SUNDAY!!\" is present.\n",
+        "processed_at": "20:29:08"
+    },
+    "054.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Falling Character",
+                    "description": "A character with a striped outfit, falling down.  The design of their outfit suggests a possible connection to the other character.",
+                    "pose": "Falling head over heels",
+                    "emotion": "Fear, or possibly surprise"
+                },
+                {
+                    "name": "Reaching Character",
+                    "description": "A character with a similar striped outfit as the falling character. It is likely the same character but in a different panel.",
+                    "pose": "Reaching downwards",
+                    "emotion": "Concern, or possibly desperation"
+                },
+                {
+                    "name": "Small Character",
+                    "description": "A smaller character with a more typical outfit. Appears to be falling from above.",
+                    "pose": "Falling in mid-air",
+                    "emotion": "Fear"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "",
+                "description_scene": "A scene of two striped characters, one falling and one reaching downwards, perhaps to catch the first.  A smaller character is falling into a brightly lit area in the background. The visual style suggests action and perhaps magic or supernatural elements. The scene seems to be set in a somewhat spacious, somewhat-tiled area with hints of architecture."
+            }
+        },
+        "narrator_script": "The scene depicts three characters.  One character, wearing a striped outfit, is falling head over heels. Their expression suggests fear or surprise. A second character, also wearing a striped outfit, reaches downwards. Their expression suggests concern or desperation.  The second character's outfit is similar to the first. A third, smaller character, wearing a different outfit, is falling from above. Their expression suggests fear. The background shows a brightly lit area with hints of architecture and tiled surfaces.\n",
+        "processed_at": "20:29:14"
+    },
+    "055.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl in Bikini",
+                    "description": "A young woman wearing a bikini, lying on the ground in a surprised and shocked pose.",
+                    "pose": "Lying down, arms outstretched",
+                    "emotion": "Surprised, shocked, scared"
+                },
+                {
+                    "name": "Girl with Dark Hair",
+                    "description": "A young woman with dark hair, looking frightened and urging someone to run.",
+                    "pose": "Standing, mouth open",
+                    "emotion": "Scared, worried, urgent"
+                },
+                {
+                    "name": "Monster",
+                    "description": "A large monstrous face appears, its mouth wide open.",
+                    "pose": "Open mouth",
+                    "emotion": "Menacing, frightening"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "WHAT THE?! WE WERE IN A UFO?!\nGAAA AAH!!\nYOU AL-RIGHT, OCCULT BOY?!\nWE GOTTA RUN!!",
+                "description_scene": "The scene depicts the aftermath of a UFO crash. A flying saucer is breaking apart in the sky over a city. Two young women are reacting with fear and surprise. One is lying on the ground, while the other urges them both to flee, as a monstrous face appears ominously in the foreground."
+            }
+        },
+        "narrator_script": "The scene shows a broken UFO falling apart in the sky above a city.  Two young women are visible. One woman is lying on the ground, arms outstretched.  Her expression is one of surprise and shock.  A second woman stands, her mouth open, appearing frightened. She seems to be urging someone to run.  A large monstrous face, mouth open, dominates the foreground.\n",
+        "processed_at": "20:29:20"
+    },
+    "056.jpg": {
+        "error": "500 Unable to submit request because the service is temporarily unavailable.",
+        "processed_at": "20:29:29"
+    },
+    "057.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Turbo-Granny (Curse)",
+                    "description": "A swirling, monstrous entity resembling a vortex with a large eye. It's the embodiment of a curse.",
+                    "pose": "Swirling and consuming the other characters",
+                    "emotion": "Aggressive, malevolent"
+                },
+                {
+                    "name": "Girl with blonde hair",
+                    "description": "A young woman, possibly a teenager or young adult, with shoulder-length blonde hair. She appears to be caught in the vortex.",
+                    "pose": "Struggling against the vortex, arms outstretched",
+                    "emotion": "Fear, panic"
+                },
+                {
+                    "name": "Man in glasses",
+                    "description": "A man wearing glasses, seemingly surprised and terrified. He's possibly a bystander or someone involved in an exorcism or similar event.",
+                    "pose": "Lying on the ground, mouth open in a yell",
+                    "emotion": "Terror, shock"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "WHO THE HELL ARE YOU...?\nTURBO-GRANNY?!\nTHE CURSE AIN'T GOING AWAY!!\nEVEN THOUGH TURBO-GRANNY LEFT HIS BODY!!\nGAA AAAA AAAA AAAA AAAU GH!!",
+                "description_scene": "A swirling, dark vortex, seemingly a powerful curse, is consuming the blonde girl and man in glasses.  The vortex is identified as Turbo Granny, even though the person who had the curse has left their body.  The characters are clearly distressed and terrified by the power of the curse."
+            }
+        },
+        "narrator_script": "The scene depicts a swirling vortex, identified as Turbo-Granny, a monstrous entity resembling a vortex with a large eye. The vortex is consuming a young woman with blonde hair and a man wearing glasses. The woman is struggling against the vortex, her arms outstretched. The man is lying on the ground, his mouth open.  The text \"WHO THE HELL ARE YOU...? TURBO-GRANNY?! THE CURSE AIN'T GOING AWAY!! EVEN THOUGH TURBO-GRANNY LEFT HIS BODY!! GAA AAAA AAAA AAAA AAAU GH!!\" is present.\n",
+        "processed_at": "20:29:33"
+    },
+    "058.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with Red Hair",
+                    "description": "A young woman with reddish-orange hair, wearing a light-colored top. She appears concerned.",
+                    "pose": "Slightly crouched, looking worried.",
+                    "emotion": "Worried, concerned"
+                },
+                {
+                    "name": "Man in Dark Clothing",
+                    "description": "A man with dark hair, wearing dark clothing. He appears to be scowling.",
+                    "pose": "Sitting or crouching, scowling.",
+                    "emotion": "Angry, scowling"
+                },
+                {
+                    "name": "Woman in Swimsuit",
+                    "description": "A woman in a swimsuit, appearing to be interacting with a monstrous entity.",
+                    "pose": "Kneeling, possibly surrendering or defeated.",
+                    "emotion": "Submissive, possibly fearful"
+                },
+                {
+                    "name": "Monstrous Entity",
+                    "description": "A large, monstrous entity with a single, large eye. It appears to be consuming or possessing something.",
+                    "pose": "Static, looming.",
+                    "emotion": "N/A"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "AS LONG AS I HAVE THE BOY'S DICK... THE CURSE WON'T LEAVE HIM.  I HAVE HIS DICK NOW. THIS PLACE IS TOO FAR FOR ME. IF YOU WANT IT BACK, COME TO THE TUNNEL. YOU GAUDY HAG. COME THERE AND I'LL ENTERTAIN YOU TO YOUR HEART'S CONTENT...",
+                "description_scene": "The scene depicts a series of panels showing a monstrous entity. A woman in a swimsuit seems to be under its influence or control.  Two other characters, a girl and a man, appear to be observing or reacting to the events. The monstrous entity seems to be connected to a 'curse' involving the boy's penis."
+            }
+        },
+        "narrator_script": "The scene shows four characters. A young woman with reddish-orange hair, wearing a light-colored top, is crouched, appearing worried.  A man with dark hair, wearing dark clothing, is sitting or crouching, scowling. A woman in a swimsuit kneels, appearing submissive. A large monstrous entity with a single, large eye looms.  The entity appears to be interacting with the woman in the swimsuit, possibly possessing or consuming something.  Text visible in the scene reads: \"AS LONG AS I HAVE THE BOY'S DICK... THE CURSE WON'T LEAVE HIM. I HAVE HIS DICK NOW. THIS PLACE IS TOO FAR FOR ME. IF YOU WANT IT BACK, COME TO THE TUNNEL. YOU GAUDY HAG. COME THERE AND I'LL ENTERTAIN YOU TO YOUR HEART'S CONTENT...\"\n",
+        "processed_at": "20:29:45"
+    },
+    "059.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Woman in Bikini",
+                    "description": "A woman wearing a bikini, appearing angry and confrontational.",
+                    "pose": "Standing with arms akimbo, in a fighting stance.",
+                    "emotion": "Angry"
+                },
+                {
+                    "name": "Man in Suit",
+                    "description": "A man in a suit, lying on the ground, seemingly injured or defeated.",
+                    "pose": "Lying on the ground",
+                    "emotion": "Pain, Fear"
+                },
+                {
+                    "name": "Woman with Red Hair",
+                    "description": "A woman with red hair, appears scared and distressed",
+                    "pose": "Clutching her head",
+                    "emotion": "Fear, distress"
+                },
+                {
+                    "name": "Man with Glasses",
+                    "description": "A man with glasses who appears to be under attack.",
+                    "pose": "On the ground",
+                    "emotion": "Fear"
+                },
+                {
+                    "name": "Man Running",
+                    "description": "A man running away from the woman in a bikini.",
+                    "pose": "Running",
+                    "emotion": "Fear"
+                },
+                {
+                    "name": "Woman with Mask",
+                    "description": "A woman with a mask expressing fear.",
+                    "pose": "Small distressed image",
+                    "emotion": "Fear"
+                },
+                {
+                    "name": "Woman with Mask 2",
+                    "description": "A woman with a mask expressing fear.",
+                    "pose": "Small distressed image",
+                    "emotion": "Fear"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "KYAA AA!!\nGET IT TOGETHER, STUPID!!\nGW AAA AR!!\nLEAV-ING!!\nWHO ARE YOU CALLING A GAUDY HAG, YOU OLD BAT?!\nGIVE HIS THINGY BACK!!\nOH, CRAP! IF WE DON'T BUST OUTTA HERE, WE'RE TOAST!",
+                "description_scene": "The scene depicts a chaotic situation with a woman in a bikini confronting several people.  There is a sense of urgency and danger; a building is shown exploding in the final panel, suggesting a large-scale catastrophe.  The characters appear to be in some kind of crisis, possibly running away from a threat. The dialogue reveals conflict, fear, and a desperate attempt to escape."
+            }
+        },
+        "narrator_script": "A woman in a bikini, standing with arms akimbo, confronts a man in a suit lying on the ground.  A woman with red hair clutches her head. A man with glasses is also on the ground. Another man runs away from the woman in the bikini. Two women wearing masks are depicted in smaller, distressed images.  The background shows a building exploding.\n",
+        "processed_at": "20:29:51"
+    },
+    "060.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with short black hair",
+                    "description": "A girl with short black hair, appears to be a teenager. She is shown in three panels, each with a different expression.",
+                    "pose": "Facing forward, slightly downward gaze.",
+                    "emotion": "Disbelief, possibly a mix of fear and exhaustion."
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy with short hair and round glasses. His expression is similar to the girl's.",
+                    "pose": "Facing forward, neutral pose.",
+                    "emotion": "Anxious, slightly bewildered."
+                },
+                {
+                    "name": "Girl in school uniform",
+                    "description": "A girl in a school uniform kneeling beside a seemingly unconscious person.",
+                    "pose": "Kneeling, looking down at another person.",
+                    "emotion": "Concerned, possibly helpless."
+                },
+                {
+                    "name": "Unconscious person",
+                    "description": "A person lying on the ground, seemingly unconscious.",
+                    "pose": "Lying on the ground.",
+                    "emotion": "N/A"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "'Cause I got abducted by 'em.\nI believe in aliens now.\nBecause I got possessed by one.\nAnd I believe in ghosts now.\nI'm not sure either.\nSo whadda we do now?",
+                "description_scene": "The scene begins with a wide shot of a road next to a high wall; this sets the tone that something out of the ordinary is happening. The next panels show close-ups of two teenagers. They express their disbelief about the supernatural events that have happened to them, as one was abducted by aliens and the other was possessed by a ghost. The final panel shows a third teenager kneeling over an unconscious person, clearly distressed and uncertain about what to do next."
+            }
+        },
+        "narrator_script": "The scene opens with a wide shot of a road adjacent to a high wall.  The next panels show close-ups of a girl with short black hair and a boy with glasses.  Both display expressions of disbelief and anxiety. The girl's expression shifts between disbelief, fear, and exhaustion across three panels. The boy appears anxious and bewildered.  The final panel shows a girl in a school uniform kneeling beside an unconscious person lying on the ground.\n",
+        "processed_at": "20:29:59"
+    },
+    "061.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy wearing glasses, lying on the ground.",
+                    "pose": "Lying supine with arms outstretched.",
+                    "emotion": "Tired/defeated"
+                },
+                {
+                    "name": "Girl with dark hair",
+                    "description": "A girl with dark hair, kneeling.",
+                    "pose": "Kneeling with hands slightly outstretched",
+                    "emotion": "Worried/concerned"
+                },
+                {
+                    "name": "Boy with short hair (small)",
+                    "description": "A small boy with short hair, appearing in a small panel.",
+                    "pose": "Head and shoulders visible; worried expression.",
+                    "emotion": "Worried/concerned"
+                },
+                {
+                    "name": "Girl with short hair (small)",
+                    "description": "A small girl with short hair, appearing in a small panel.",
+                    "pose": "Head and shoulders visible; appears to be thinking.",
+                    "emotion": "Thoughtful/concerned"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "SORRY.\nI'VE GOTTA KEEP YOUR CURSE UNDER CONTROL WITH MY PSYCHIC POWERS OR ELSE YOU'LL RUN WILD.\nTHEY'RE ALL GONE.\nMY UNIFORM, WALLET, AND PHONE...\nI SEE.\nSHE PUT IT ON YOU.\nKICK THAT TURBO-GRANNY'S ASS, OBVIOUSLY.\nWHAT DO YOU THINK WE SHOULD DO ABOUT GETTING RID OF THE CURSE?\nI'LL BE LEAVING FOR A LITTLE WHILE, THEN.",
+                "description_scene": "The scene shows a boy lying on the ground, seemingly affected by a curse, while a girl is kneeling beside him, attempting to control the curse with psychic powers. Their belongings have been stolen.  A smaller panel at the bottom shows two other children seemingly discussing how to resolve the situation."
+            }
+        },
+        "narrator_script": "A boy wearing glasses lies supine on the ground with arms outstretched.  A girl with dark hair kneels beside him, hands slightly outstretched. A smaller panel shows a small boy with short hair and a small girl with short hair, their heads and shoulders visible. The boy's expression is worried. The girl's expression is thoughtful.  The scene depicts the boy on the ground appearing affected by something. The girl appears to be attempting to control something.  Their belongings, including a uniform, wallet, and phone are missing.\n",
+        "processed_at": "20:30:05"
+    },
+    "062.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Ayase-san",
+                    "description": "A young person with short dark hair, wearing casual clothes. Seems to be involved in some kind of dangerous situation.",
+                    "pose": "Initially distressed and worried, then becomes more determined to work together.",
+                    "emotion": "Initially anxious and guilt-ridden, later resolute."
+                },
+                {
+                    "name": "Narrator",
+                    "description": "A young person with glasses, seems to be taking responsibility for the situation.",
+                    "pose": "Initially hesitant, but then decides to cooperate.",
+                    "emotion": "Guilty, then determined."
+                },
+                {
+                    "name": "Background Characters",
+                    "description": "Two other people are shown in the background, who seem to be observing the main characters.",
+                    "pose": "Standing in the background, observing",
+                    "emotion": "Neutral"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "I can't let you get any more involved in this, Ayase-san. It's my fault this happened... Hang on! If I don't stay with you, you'll go wild!! Put my clothes on and go back home, Ayase-san. And then I'll take care of all this. I'll find some way to work up the courage to go to the tunnel. Don't you think we should work together?! And besides, if I hadn't been there back then, you would have died! After all I've been through, I can't turn back on this! Why can't you just ask me to come with you?! Sorry... C'mon, put 'em on! We're going! God, quit going on about it! Are you sure...? Even if you want to work with me...",
+                "description_scene": "The comic depicts a conversation between two young people in what appears to be a dangerous situation after something bad happened. One is taking responsibility, the other initially wants to go home, but eventually agrees to work together."
+            }
+        },
+        "narrator_script": "The scene depicts two young people, Ayase-san and another individual referred to as the Narrator. Ayase-san has short dark hair and wears casual clothing. The Narrator wears glasses.  Two additional figures are present in the background, observing. Ayase-san initially appears distressed and worried, while the Narrator appears hesitant.  Ayase-san's initial emotional state is anxious and guilt-ridden; the Narrator's is also guilty.  The Narrator suggests Ayase-san put their clothes on and go home. Ayase-san initially resists further involvement but eventually agrees to work together with the Narrator.  Both characters' expressions change to show determination.  The background characters remain neutral in their demeanor and expression.\n",
+        "processed_at": "20:30:11"
+    },
+    "063.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Boy in Shorts",
+                "description": " A boy dressed in shorts, seemingly embarrassed or shy.",
+                "pose": "Slightly hunched, head down.",
+                "emotion": "Embarrassed, shy"
+            },
+            "ocr_text_describing": {
+                "dialogue": "AN AWKWARD GUY...\nI'M...\nHUH?\nWHY'S MY HEART POUNDING ...?!\nNO WAY...\nAYASE-SAN, YOU PUT THEM ON.\nOTHERWISE, I CAN'T REALLY TALK TO YOU STRAIGHT.",
+                "description_scene": "The scene depicts a conversation between a boy and a girl. The boy is expressing his nervousness and awkwardness, while the girl seems to be confused.  Later panels show the girl with another character, possibly explaining why the boy is acting awkwardly. The dialogue implies the girl has done something (putting something 'on') that makes it difficult for the boy to communicate directly."
+            }
+        },
+        "narrator_script": "The scene opens with a boy wearing glasses, appearing nervous and slightly hunched. He looks down.  A girl with long hair looks at him with a pensive expression.  The boy's dialogue reads: \"AN AWKWARD GUY... I'M... HUH? WHY'S MY HEART POUNDING...? NO WAY... AYASE-SAN, YOU PUT THEM ON. OTHERWISE, I CAN'T REALLY TALK TO YOU STRAIGHT.\"  A woman, Ayase-san, wearing a collared shirt and jacket, stands and looks towards the boy.  Her expression is serious and composed.  Another boy, dressed in shorts, is also present; he is slightly hunched with his head down, appearing embarrassed.\n",
+        "processed_at": "20:30:19"
+    },
+    "064.jpg": {
+        "scene_description": {
+            "character": [
+                {
+                    "name": "Girl with long hair",
+                    "description": "A girl with long hair, she seems flustered and slightly embarrassed.",
+                    "pose": "Slightly turned away, hands near her chest.",
+                    "emotion": "Flustered, embarrassed"
+                },
+                {
+                    "name": "Boy with glasses",
+                    "description": "A boy wearing glasses, appearing shy and slightly nervous.",
+                    "pose": "Looking down, a little bit shy.",
+                    "emotion": "Shy, nervous"
+                },
+                {
+                    "name": "Girl with short hair",
+                    "description": "A girl with short hair, her expression isn't clear, she is mostly shown from the back.",
+                    "pose": "Standing, mostly from the back.",
+                    "emotion": "Neutral"
+                },
+                {
+                    "name": "Takakura Ken (mentioned)",
+                    "description": "A character mentioned in the dialogue, not shown in the scene directly.",
+                    "pose": "N/A",
+                    "emotion": "N/A"
+                }
+            ],
+            "ocr_text_describing": {
+                "dialogue": "JUST CALM DOWN, ME...\nWHAT'S YOUR NAME, AGAIN?\nUH... RIGHT.\nI'M NOT GOOD AT PUTTING NAMES TO FACES, SEE.\nNOPE, NUH-UH.\nI JUST GOT A LITTLE FLUSTERED 'CAUSE HE ACCIDENTALLY DROPPED A TAKAKURA KEN LINE, THAT'S ALL.\nIT'S TAKAKURA KEN.",
+                "description_scene": "The scene starts with a conversation between a girl with long hair and a boy with glasses. The girl is asking for the boy's name again, expressing some difficulty remembering faces.  The boy is shy and somewhat embarrassed. In the following panels, it's revealed that the situation caused some fluster to the girl and that the other character mentioned was accidentally involved in a minor mishap. The final panel shows the boy standing with a girl with short hair, revealing the boy's name as Takakura Ken."
+            }
+        },
+        "narrator_script": "The scene depicts a girl with long hair, appearing flustered and slightly turned away, her hands near her chest.  A boy with glasses, looking down, stands near her; he appears shy and nervous. A girl with short hair is also present, mostly shown from the back, her expression unclear.  The dialogue indicates a conversation between the girl with long hair and the boy with glasses. The girl asks for the boy's name, stating difficulty remembering faces.  The boy appears embarrassed.  The dialogue further reveals that the girl's fluster stems from an accidental mention of a character named Takakura Ken. The final panel shows the boy with the girl with short hair.\n",
+        "processed_at": "20:30:26"
+    },
+    "065.jpg": {
+        "scene_description": {
+            "character": {
+                "name": "Girl",
+                "description": "A young girl with long, slightly wavy hair, wearing a jacket. She has large eyes and is shown with blushing cheeks.",
+                "pose": "She is shown from the chest up, slightly turned away from the viewer, with her hands near her chest, possibly clutching her jacket.",
+                "emotion": "She appears worried, concerned, or perhaps a bit shy. Her expression is one of pensive thought, possibly reflecting some inner turmoil."
+            },
+            "ocr_text_describing": {
+                "dialogue": null,
+                "description_scene": "The background is mostly white, with small, scattered dots or particles that resemble dust or debris in the air.  This effect creates a sense of stillness or quiet contemplation around the girl. There are no other visible characters in the scene."
+            }
+        },
+        "narrator_script": "The image depicts a young girl from the chest up.  She has long, slightly wavy hair and is wearing a jacket. Her cheeks are flushed. Her hands are near her chest.  The background is white with small, scattered dots.  No other characters are visible.\n",
+        "processed_at": "20:30:33"
+    }
+}
